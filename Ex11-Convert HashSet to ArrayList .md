@@ -47,5 +47,7 @@ public class HashSetToArrayList {
 
 ## Output:
 <img width="524" height="550" alt="image" src="https://github.com/user-attachments/assets/0a328278-4dfa-401b-b137-abc9458d737d" />
+
 ## Result:
+
 The program successfully converts a collection of distinct integers stored in a HashSet into an ArrayList
